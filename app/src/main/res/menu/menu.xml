@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/copy1"
+        android:title="Copy"/>
+
+    <item
+        android:id="@+id/delete1"
+        android:title="Delete"/>
+
+    <item
+        android:id="@+id/save1"
+        android:title="Save"/>
+</menu>
